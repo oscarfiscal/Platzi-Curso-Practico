@@ -1,0 +1,82 @@
+const colombia = []  //colombia
+colombia.push({ 
+    name:'Juanita',
+    salary:1000,
+});
+colombia.push({ 
+    name:'Juan',
+    salary:2000,
+});
+colombia.push({
+    name:'Pedro',
+    salary:3000,
+});
+colombia.push({
+    name:'Maria',
+    salary:4000,
+});
+colombia.push({
+    name:'oscar',
+    salary:1000,
+});
+colombia.push({
+    name:'jose',
+    salary:2000,
+});
+colombia.push({
+    name:'natalia',
+    salary:100,
+});
+colombia.push({
+    name:'david',
+    salary:3500,
+});
+colombia.push({
+    name:'dora',
+    salary:1000,
+});
+colombia.push({
+    name:'martha',
+    salary:2000,
+});
+colombia.push({
+    name:'katherin',
+    salary:500,
+});
+colombia.push({
+    name:'Karol',
+    salary:860,
+});
+colombia.push({ 
+    name:'andres',
+    salary:340,
+});
+colombia.push({
+    name:'fabian',
+    salary:500,
+});
+colombia.push({
+    name:'lopez',
+    salary:563,
+});
+colombia.push({
+    name:'leo',
+    salary:899,
+});
+colombia.push({
+    name:'angelica',
+    salary:1100,
+});
+colombia.push({
+    name:'angie',
+    salary:1200,
+});
+colombia.push({
+    name:'jeison',
+    salary:440,
+});
+colombia.push({ 
+    name:'juan',
+    salary:2000,
+});
+
